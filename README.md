@@ -3,7 +3,7 @@ Práctica del curso de DevOps
 
 # url & ip
 
-http://nodepop.tk/
+http://nodepop.tk/es
 http://13.58.151.147/
 
 # documentation about nodepop api
